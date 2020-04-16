@@ -1,0 +1,12 @@
+sandboxUrls:
+  - https://parametersdownloadsandbox.cieloecommerce.cielo.com.br/healthcheck
+  - https://merchantapisandbox.cieloecommerce.cielo.com.br/healthcheck
+  - https://omnisandbox.cieloecommerce.cielo.com.br/healthcheck
+  - https://omniquerysandbox.cieloecommerce.cielo.com.br/healthcheck
+  - https://onboardingsandbox.cieloecommerce.cielo.com.br/healthcheck
+productionUrls:
+  - https://parametersdownload.cieloecommerce.cielo.com.br/healthcheck
+  - https://merchantapi.cieloecommerce.cielo.com.br/healthcheck
+  - https://omni.cieloecommerce.cielo.com.br/healthcheck
+  - https://omniquery.cieloecommerce.cielo.com.br/healthcheck
+  - https://onboarding.cieloecommerce.cielo.com.br/healthcheck
